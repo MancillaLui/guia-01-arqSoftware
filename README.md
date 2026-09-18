@@ -21,7 +21,7 @@ El curso de Arquitectura de Software aborda las decisiones de alto nivel necesar
 ## Evidencias de Ejecución
 
 ### Paso 01: Verificación e Instalación de Herramientas
-![Paso 01 - Verificación de Herramientas](Foto1.png)
+![Paso 01 - Verificación de Herramientas](docs/Foto1.png)
 
 ### Paso 02: Creación de la Estructura de Carpetas
-![Paso 02 - Estructura de Carpetas](Foto2.png)
+![Paso 02 - Estructura de Carpetas](docs/Foto2.png)
